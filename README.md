@@ -9,3 +9,8 @@ List of resources
 ## Languages
 
 * [Zig](https://ziglang.org/) - Imperative, general-purpose, statically typed, compiled system programming language. It is intended to be a replacement for the C programming language.
+
+## Other resources
+
+* [in4k](https://in4k.github.io/) - Resources about creation of demoscene 1kb, 4kb and 8kb intros
+* [sizecoding](http://www.sizecoding.org/) - Resources about creating very tiny programs (256 bytes or less)
